@@ -33,8 +33,8 @@ python algoritmo_busca.py
 
 O programa irá:
 
-1. Mostrar todos os caminhos possíveis e seus custos
+1. Mostrar todos os caminhos possíveis e seus custos(no terminal)
 2. Executar os três algoritmos (BFS, DFS, Dijkstra)
-3. Exibir os caminhos encontrados por cada algoritmo
+3. Exibir os caminhos encontrados por cada algoritmo(no terminal)
 4. Comparar resultados (comprimento, custo, tempo)
 5. Gerar uma visualização gráfica do grafo com os caminhos destacados
